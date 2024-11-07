@@ -1,0 +1,1 @@
+def easy_mone
